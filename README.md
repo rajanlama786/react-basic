@@ -1,3 +1,10 @@
+# What is this?
+
+This contains functionality:
+
+- Drag and Drop for React js.
+- react-select
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
